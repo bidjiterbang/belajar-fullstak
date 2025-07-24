@@ -14,3 +14,4 @@ class Product
     }
 }
 $prduct1 = new product('smartphone','5000000','smartphone terbaru dengan kamera berkualitas tinggi');
+$prduct1 = new product('iphone 13','20000000',' terbaru dengan kamera berkualitas tinggi');
